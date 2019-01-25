@@ -1,0 +1,20 @@
+{
+  "name": "learnNode",
+  "version": "1.0.0",
+  "description": "**学习node记录**\r 原文 https://www.nodebeginner.org/index-zh-cn.html?utm_source=ourjs.com\r ### 服务的 Javascript\r Javascript 是一门完整的语言，可以使用在不同的上下文中。Node.js 其实就是一种上下文，可以让 Javascript 在服务端运行。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woyaohaohaoxuexi/learnNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woyaohaohaoxuexi/learnNode/issues"
+  },
+  "homepage": "https://github.com/woyaohaohaoxuexi/learnNode#readme"
+}
